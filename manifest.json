@@ -1,0 +1,24 @@
+{
+    "name": "tEst",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Twitterのイッヌを小屋に帰します。鳥が来ます。",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://twitter.com/*"
+            ],
+            "css": [
+                "style.css"
+            ]/*,
+            "js": [
+                "script.js"
+            ]*/
+        }
+    ],
+    "icons": {
+        "16": "icons/icon_16.png",
+        "48": "icons/icon_48.png",
+        "128": "icons/icon_128.png"
+    }
+}
