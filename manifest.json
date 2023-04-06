@@ -2,7 +2,7 @@
     "name": "tEst",
     "version": "1.0.0",
     "manifest_version": 3,
-    "description": "Twitterのイッヌを小屋に帰します。鳥が来ます。",
+    "description": "In twitter, hide notify dot. i hate the dot.",
     "content_scripts": [
         {
             "matches": [
