@@ -1,4 +1,4 @@
-# twitter-hiDOT
+# twitter-HIDOT
 hide notify dot
 
 # Function
